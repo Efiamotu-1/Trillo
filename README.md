@@ -69,7 +69,7 @@
 
 
 
-- [[coming soon]()
+- [live demo](https://efiamotu-1.github.io/Trillo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
